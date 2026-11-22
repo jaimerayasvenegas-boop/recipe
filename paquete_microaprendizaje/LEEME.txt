@@ -1,0 +1,11 @@
+MICROAPRENDIZAJE: ESTRATEGIAS DE COMUNICACIÓN VISUAL Y MARKETING DIGITAL EN ENTORNOS DEPORTIVOS
+
+ARCHIVO PRINCIPAL: index.html
+
+CÓMO ABRIRLO:
+1. Descarga y extrae este paquete ZIP.
+2. Abre la carpeta paquete_microaprendizaje.
+3. Haz doble clic en index.html.
+4. Se abrirá en tu navegador (Chrome, Edge o Firefox).
+
+El microaprendizaje está integrado en un solo archivo HTML. No necesita carpetas CSS/JS, instalaciones ni conexión a internet para funcionar.
